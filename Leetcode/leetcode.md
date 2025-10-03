@@ -1,0 +1,1 @@
+This folder contains a collection of LeetCode problems that have been solved using JavaScript. Each solution includes the problem description, example inputs/outputs, and a working JavaScript implementation.
